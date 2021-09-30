@@ -1,3 +1,3 @@
-##Instructions
-*Run node index.js or nodemon index.js
-#Ejerciicos de clases
+## Instructions
+* Run node index.js or nodemon index.js
+# Ejerciicos de clases
